@@ -57,7 +57,7 @@ This is a **Graphing Calculator** implemented in C, capable of graphing mathemat
 1. Clone or download the project files.
 2. Compile the program using a C compiler, e.g.:
    ```bash
-   gcc graphing_calculator.c -o graphing_calculator -lm
+   gcc graph.c -o graphing_calculator -lm
 3. The -lm is used for linking the math.h library into a C program during compilation
 4. To run use
 5. ```bash
